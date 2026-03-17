@@ -49,8 +49,3 @@ O programa tem como principal objetivo apoiar **pequenos negócios e empreendime
 A visita permitiu perceber que a incubadora exerce um papel importante no apoio a esses grupos, promovendo inclusão produtiva, autonomia e valorização do trabalho local. Além disso, foi possível identificar uma demanda concreta que pode ser trabalhada pela turma: a criação de um **site para divulgação de catálogos dos produtos ofertados pelos empreendimentos incubados**.
 
 Essa possível solução computacional pode contribuir para ampliar a visibilidade dos produtos, facilitar o acesso de clientes às informações e fortalecer a presença digital dos empreendimentos. Dessa forma, a atividade evidenciou como a Computação pode ser aplicada de maneira prática e socialmente relevante, colaborando com iniciativas de impacto comunitário.
-
-## Autora
-
-**Ana Lilian Alfonso Toledo**  
-Curso de Ciência da Computação – UFSMaaaaaaaaaaaaaaaaaaaa
