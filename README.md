@@ -42,6 +42,9 @@ Na segunda semana, foi apresentado o **GitHub da turma**, bem como as orientaç�
 O uso do GitHub também contribui para o desenvolvimento de competências importantes na área da Computação, como organização de projetos, escrita técnica, versionamento e registro sistemático de atividades.
 
 ### Visita ao **Hub Incubadora Social**
+
+![Visita ao Hub incubadora Social](./imagens/hubis.jpg)
+
 Também foi realizada uma visita ao **Hub Incubadora Social**, com o objetivo de conhecer o programa, entender sua proposta de atuação e identificar necessidades que possam ser atendidas por meio de soluções na área da Computação.
 
 O programa tem como principal objetivo apoiar **pequenos negócios e empreendimentos com caráter social**, auxiliando no seu desenvolvimento e fortalecimento no mercado. Em muitos casos, os empreendimentos incubados são formados por pessoas em situação de vulnerabilidade socioeconômica, com **baixa renda** e **acesso limitado a tecnologias digitais**, o que pode dificultar sua divulgação, crescimento e competitividade.
