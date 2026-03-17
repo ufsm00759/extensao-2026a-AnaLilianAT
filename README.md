@@ -50,22 +50,6 @@ A visita permitiu perceber que a incubadora exerce um papel importante no apoio 
 
 Essa possível solução computacional pode contribuir para ampliar a visibilidade dos produtos, facilitar o acesso de clientes às informações e fortalecer a presença digital dos empreendimentos. Dessa forma, a atividade evidenciou como a Computação pode ser aplicada de maneira prática e socialmente relevante, colaborando com iniciativas de impacto comunitário.
 
----
-
-## Reflexões parciais
-
-Até o momento, as atividades da disciplina têm possibilitado uma compreensão mais ampla sobre o papel da extensão universitária e sobre como a Computação pode ser utilizada para além de contextos estritamente técnicos, atuando também como ferramenta de inclusão, apoio social e desenvolvimento comunitário.
-
-A pesquisa sobre o projeto **Flores para Todos** e a visita ao **Hub Incubadora Social** mostraram que existem diversas realidades em que o conhecimento acadêmico pode contribuir de forma significativa. Além disso, essas experiências reforçam a importância de ouvir as demandas da comunidade antes de propor soluções, buscando desenvolver ações que sejam úteis, viáveis e alinhadas às necessidades reais dos públicos envolvidos.
-
----
-
-## Próximas atualizações
-
-Este repositório será atualizado ao longo do semestre com novas atividades, reflexões e possíveis desenvolvimentos relacionados à disciplina.
-
----
-
 ## Autora
 
 **Ana Lilian Alfonso Toledo**  
