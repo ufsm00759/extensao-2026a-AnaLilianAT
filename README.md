@@ -43,7 +43,7 @@ O uso do GitHub também contribui para o desenvolvimento de competências import
 
 ### Visita ao **Hub Incubadora Social**
 
-![Visita ao Hub incubadora Social](./imagens/hubis.jpg)
+![Hub Incubadora Social](imagens/hubis.JPG)
 
 Também foi realizada uma visita ao **Hub Incubadora Social**, com o objetivo de conhecer o programa, entender sua proposta de atuação e identificar necessidades que possam ser atendidas por meio de soluções na área da Computação.
 
