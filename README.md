@@ -23,7 +23,7 @@ Além da apresentação geral da disciplina, também foram introduzidos os conce
 
 Essa introdução foi importante para estabelecer as bases conceituais da disciplina e para compreender que a extensão universitária vai além da aplicação de conhecimentos técnicos, envolvendo também escuta ativa, responsabilidade social e formação integral.
 
-![Desenhos de cada um](imagens/desenhos.HEIC)
+![Desenhos de cada um](imagens/desenhos.jpg)
 
 ### Pesquisa para debate em aula: Projeto **Flores para Todos (PhenoGlad)**
 Como atividade inicial, foi realizada uma pesquisa sobre o projeto **Flores para Todos (PhenoGlad)** para subsidiar um debate em aula.
