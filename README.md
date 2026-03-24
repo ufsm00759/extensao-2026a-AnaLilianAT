@@ -54,3 +54,17 @@ O programa tem como principal objetivo apoiar **pequenos negócios e empreendime
 A visita permitiu perceber que a incubadora exerce um papel importante no apoio a esses grupos, promovendo inclusão produtiva, autonomia e valorização do trabalho local. Além disso, foi possível identificar uma demanda concreta que pode ser trabalhada pela turma: a criação de um **site para divulgação de catálogos dos produtos ofertados pelos empreendimentos incubados**.
 
 Essa possível solução computacional pode contribuir para ampliar a visibilidade dos produtos, facilitar o acesso de clientes às informações e fortalecer a presença digital dos empreendimentos. Dessa forma, a atividade evidenciou como a Computação pode ser aplicada de maneira prática e socialmente relevante, colaborando com iniciativas de impacto comunitário.
+
+---
+
+## 3ª semana
+
+###Discussão da Proposta e Definição dos Requisitos do Projeto
+
+Na terceira semana da disciplina, foi realizada inicialmente uma discussão sobre a visita à incubadora social e sobre as principais impressões a respeito do projeto que nos foi apresentado. Nesse momento, foram analisadas a viabilidade e a relevância da proposta de implementação recebida pelo grupo, que consiste na criação de um site para a divulgação dos catálogos das empresas incubadas.
+
+Ao longo da discussão, também foram definidos os principais públicos-alvo do sistema: os trabalhadores da incubadora social, que ficarão responsáveis pela administração do site; os empreendedores incubados, que terão seus empreendimentos divulgados na plataforma; e os usuários interessados, que acessarão o site para visualizar os catálogos e conhecer os produtos e serviços oferecidos.
+
+Outro ponto importante levantado foi a necessidade de que o sistema seja simples, intuitivo e de fácil utilização. Esse aspecto foi considerado essencial para atender adequadamente aos empreendedores incubados, tendo em vista que muitos deles não possuem conhecimento tecnológico aprofundado. Assim, desde o início do planejamento, buscou-se considerar a acessibilidade e a usabilidade como características centrais da proposta.
+
+Em um segundo momento, foram discutidos conjuntamente diversos requisitos do sistema, com o objetivo de alinhar o desenvolvimento do projeto às demandas identificadas anteriormente. Além disso, foram definidas algumas tarefas iniciais para dar início à construção da solução, entre elas a elaboração de um protótipo no Figma, para apresentar a estruturação do site, e a coleta de informações sobre os empreendimentos incubados, com a finalidade de formar uma base de dados inicial para ser incorporada ao sistema.
