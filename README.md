@@ -79,7 +79,7 @@ Na quarta semana, foram entregues os protótipos do projeto desenvolvidos no Fig
 
 Durante a discussão, foram observados os pontos positivos e negativos de cada proposta, tanto em relação à organização das informações quanto à usabilidade e à adequação ao público-alvo. Com base nessa avaliação, decidiu-se realizar um *merge* entre os protótipos, reunindo em uma única versão as características mais adequadas e vantajosas de cada um. Esse processo contribuiu para o refinamento da solução proposta, tornando o modelo mais alinhado aos objetivos do sistema.
 
-
+|---|---|
 | ![](imagens/figma1.png) | ![](imagens/figma2.png) |
 
 ---
