@@ -83,6 +83,10 @@ Durante a discussão, foram observados os pontos positivos e negativos de cada p
   <img src="imagens/figma1.png" width="45%" />
   <img src="imagens/figma2.png" width="45%" />
 </p>
+<p align="center">
+  <img src="imagens/figma3.png" width="45%" />
+  <img src="imagens/figma4.png" width="45%" />
+</p>
 
 ---
 
