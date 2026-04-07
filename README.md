@@ -96,5 +96,5 @@ De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram
 
 <p align="center">
   <img src="imagens/apresentacao_Hub1.jpeg" width="45%" />
-  <img src="imagens/apresentacao_Hub1.jpeg" width="45%" />
+  <img src="imagens/apresentacao_Hub2.jpeg" width="45%" />
 </p>
