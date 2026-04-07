@@ -68,3 +68,23 @@ Ao longo da discussão, também foram definidos os principais públicos-alvo do 
 Outro ponto importante levantado foi a **necessidade de que o sistema seja simples, intuitivo e de fácil utilização**. Esse aspecto foi considerado essencial para atender adequadamente aos empreendedores incubados, tendo em vista que muitos deles não possuem conhecimento tecnológico aprofundado. Assim, desde o início do planejamento, buscou-se considerar a acessibilidade e a usabilidade como características centrais da proposta.
 
 Em um segundo momento, foram discutidos conjuntamente diversos requisitos do sistema, com o objetivo de alinhar o desenvolvimento do projeto às demandas identificadas anteriormente. Além disso, foram definidas algumas tarefas iniciais para dar início à construção da solução, entre elas a elaboração de um protótipo no Figma, para apresentar a estruturação do site, e a coleta de informações sobre os empreendimentos incubados, com a finalidade de formar uma base de dados inicial para ser incorporada ao sistema.
+
+---
+
+## 4ª semana
+
+### Desenvolvimento, avaliação e integração dos protótipos no Figma
+
+Na quarta semana, foram entregues os protótipos do projeto desenvolvidos no Figma, sendo apresentadas duas propostas distintas de interface. A partir disso, foi realizada uma análise comparativa entre os dois protótipos, considerando os requisitos levantados nas etapas anteriores e as necessidades identificadas junto ao contexto do projeto.
+
+Durante a discussão, foram observados os pontos positivos e negativos de cada proposta, tanto em relação à organização das informações quanto à usabilidade e à adequação ao público-alvo. Com base nessa avaliação, decidiu-se realizar um *merge* entre os protótipos, reunindo em uma única versão as características mais adequadas e vantajosas de cada um. Esse processo contribuiu para o refinamento da solução proposta, tornando o modelo mais alinhado aos objetivos do sistema.
+
+---
+
+## 5ª semana
+
+### Apresentação do protótipo no Hub Incubadora Social e validação da proposta
+
+Na quinta semana, foi realizada uma visita ao Hub Incubadora Social com o objetivo de apresentar o modelo do projeto elaborado no Figma. Essa atividade teve como finalidade obter feedback dos trabalhadores envolvidos, verificar se o protótipo estava de acordo com a proposta esperada e esclarecer dúvidas relacionadas ao funcionamento e à estrutura do sistema.
+
+De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram satisfação com a proposta apresentada. Foram levantadas apenas pequenas sugestões de ajuste, voltadas principalmente ao aprimoramento de alguns detalhes do modelo. A visita foi importante para validar o encaminhamento do projeto e confirmar que a solução desenvolvida estava coerente com as expectativas dos interessados.
