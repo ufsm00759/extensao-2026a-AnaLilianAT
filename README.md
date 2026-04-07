@@ -83,6 +83,11 @@ Durante a discussão, foram observados os pontos positivos e negativos de cada p
 |---|---|
 | ![](imagens/figma1.png) | ![](imagens/figma2.png) |
 
+<p align="center">
+  <img src="imagens/figma1.png" width="45%" />
+  <img src="imagens/figma1.png" width="45%" />
+</p>
+
 ---
 
 ## 5ª semana
