@@ -79,13 +79,9 @@ Na quarta semana, foram entregues os protótipos do projeto desenvolvidos no Fig
 
 Durante a discussão, foram observados os pontos positivos e negativos de cada proposta, tanto em relação à organização das informações quanto à usabilidade e à adequação ao público-alvo. Com base nessa avaliação, decidiu-se realizar um *merge* entre os protótipos, reunindo em uma única versão as características mais adequadas e vantajosas de cada um. Esse processo contribuiu para o refinamento da solução proposta, tornando o modelo mais alinhado aos objetivos do sistema.
 
-| Imagem 1 | Imagem 2 |
-|---|---|
-| ![](imagens/figma1.png) | ![](imagens/figma2.png) |
-
 <p align="center">
-  <img src="imagens/figma1.png" width="45%" />
-  <img src="imagens/figma1.png" width="45%" />
+  <img src="imagens/figma1.png" width="50%" />
+  <img src="imagens/figma2.png" width="50%" />
 </p>
 
 ---
@@ -98,6 +94,7 @@ Na quinta semana, foi realizada uma visita ao Hub Incubadora Social com o objeti
 
 De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram satisfação com a proposta apresentada. Foram levantadas apenas pequenas sugestões de ajuste, voltadas principalmente ao aprimoramento de alguns detalhes do modelo. A visita foi importante para validar o encaminhamento do projeto e confirmar que a solução desenvolvida estava coerente com as expectativas dos interessados.
 
-| Imagem 1 | Imagem 2 |
-|---|---|
-| ![](imagens/apresentacao_Hub1.jpeg) | ![](apresentacao_Hub2.jpeg) |
+<p align="center">
+  <img src="imagens/apresentacao_Hub1.jpeg" width="50%" />
+  <img src="imagens/apresentacao_Hub1.jpeg" width="50%" />
+</p>
