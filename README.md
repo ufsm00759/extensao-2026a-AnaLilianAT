@@ -103,7 +103,7 @@ De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram
   <img src="imagens/apresentacao_Hub2.jpeg" width="45%" />
 </p>
 
-## Semanas 6 a 8
+## 6ª a 8ª semanas
 
 ### Implementação do projeto
 
@@ -111,7 +111,7 @@ Da sexta à oitava semana, foi iniciada a etapa de implementação do projeto. N
 
 Para melhor organização das atividades, a equipe foi dividida em grupos responsáveis pelas frentes de **front-end**, **back-end** e **testes**. Essa divisão permitiu que o desenvolvimento ocorresse de maneira mais estruturada, favorecendo o andamento simultâneo de diferentes partes do sistema. Ao longo dessas semanas, o projeto evoluiu significativamente, passando de um protótipo conceitual para uma solução real em desenvolvimento, com foco na implementação prática das funcionalidades planejadas.
 
-## Semana 9
+## 9ª semana
 
 ### Apresentação da implementação e validação com usuários
 
@@ -119,11 +119,18 @@ Na nona semana, foi realizada uma nova visita ao Hub Incubadora Social com o obj
 
 Além da demonstração das funcionalidades desenvolvidas, houve também uma sessão de testes com os próprios usuários do sistema. As empreendedoras e as trabalhadoras do Hub puderam interagir com o site, avaliar aspectos da solução e apontar sugestões de melhoria. Esse momento foi importante para validar as decisões tomadas até então e identificar ajustes necessários a partir da experiência real dos futuros usuários. De maneira geral, o site foi muito bem recebido, tendo sido elogiado e parabenizado pelos participantes.
 
+<p align="center">
+  <img src="imagens/visita_hubis_2_1" width="45%" />
+  <img src="imagens/visita_hubis_2_2" width="45%" />
+</p>
+
 ### Levantamento de ajustes
 
 Na segunda parte da semana, a equipe se reuniu para revisar e discutir os pontos que precisavam ser ajustados com base no feedback recebido durante a visita. A partir dessa análise, foram criadas *issues* para organizar as demandas identificadas e orientar as próximas etapas do desenvolvimento.
 
-### Semanas 10 e 11 — Correção de issues e definição de aspectos de implantação e monitoramento
+## 10ª a 11ª semanas
+
+### Correção de issues e definição de aspectos de implantação e monitoramento
 
 Durante a décima e a décima primeira semanas, o foco da equipe esteve voltado para a resolução das *issues* levantadas anteriormente. Assim, foram realizados os ajustes necessários no sistema, buscando atender às observações feitas pelos usuários e aprimorar a qualidade da solução desenvolvida.
 
