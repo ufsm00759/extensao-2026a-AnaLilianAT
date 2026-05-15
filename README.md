@@ -102,3 +102,29 @@ De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram
   <img src="imagens/apresentacao_Hub1.jpeg" width="45%" />
   <img src="imagens/apresentacao_Hub2.jpeg" width="45%" />
 </p>
+
+## Semanas 6 a 8
+
+### Implementação do projeto
+
+Da sexta à oitava semana, foi iniciada a etapa de implementação do projeto. Nesse período, o trabalho deixou de se concentrar apenas na modelagem realizada no Figma e passou a se materializar como um produto funcional, com interações e funcionalidades definidas de forma mais concreta.
+
+Para melhor organização das atividades, a equipe foi dividida em grupos responsáveis pelas frentes de **front-end**, **back-end** e **testes**. Essa divisão permitiu que o desenvolvimento ocorresse de maneira mais estruturada, favorecendo o andamento simultâneo de diferentes partes do sistema. Ao longo dessas semanas, o projeto evoluiu significativamente, passando de um protótipo conceitual para uma solução real em desenvolvimento, com foco na implementação prática das funcionalidades planejadas.
+
+## Semana 9
+
+### Apresentação da implementação e validação com usuários
+
+Na nona semana, foi realizada uma nova visita ao Hub Incubadora Social com o objetivo de apresentar o que já havia sido implementado no projeto. Nessa apresentação, estiveram presentes tanto trabalhadores do Hub quanto algumas empreendedoras incubadas, público diretamente relacionado ao uso da plataforma.
+
+Além da demonstração das funcionalidades desenvolvidas, houve também uma sessão de testes com os próprios usuários do sistema. As empreendedoras e as trabalhadoras do Hub puderam interagir com o site, avaliar aspectos da solução e apontar sugestões de melhoria. Esse momento foi importante para validar as decisões tomadas até então e identificar ajustes necessários a partir da experiência real dos futuros usuários. De maneira geral, o site foi muito bem recebido, tendo sido elogiado e parabenizado pelos participantes.
+
+### Levantamento de ajustes
+
+Na segunda parte da semana, a equipe se reuniu para revisar e discutir os pontos que precisavam ser ajustados com base no feedback recebido durante a visita. A partir dessa análise, foram criadas *issues* para organizar as demandas identificadas e orientar as próximas etapas do desenvolvimento.
+
+### Semanas 10 e 11 — Correção de issues e definição de aspectos de implantação e monitoramento
+
+Durante a décima e a décima primeira semanas, o foco da equipe esteve voltado para a resolução das *issues* levantadas anteriormente. Assim, foram realizados os ajustes necessários no sistema, buscando atender às observações feitas pelos usuários e aprimorar a qualidade da solução desenvolvida.
+
+Além disso, nessas semanas também foram discutidos aspectos relacionados à implantação e ao uso futuro da plataforma. Entre os pontos tratados, destacam-se a definição de questões de domínio, o uso do Microsoft Clarity para extração e análise de métricas de navegação e a criação de dois ambientes distintos para o sistema: um ambiente destinado à vitrine real, com atualização por meio de *pull* manual, e outro voltado para testes, com *pull* automático. Essas definições foram importantes para estruturar melhor o processo de disponibilização, acompanhamento e manutenção do projeto.
