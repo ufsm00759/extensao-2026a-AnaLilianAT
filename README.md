@@ -120,8 +120,8 @@ Na nona semana, foi realizada uma nova visita ao Hub Incubadora Social com o obj
 Além da demonstração das funcionalidades desenvolvidas, houve também uma sessão de testes com os próprios usuários do sistema. As empreendedoras e as trabalhadoras do Hub puderam interagir com o site, avaliar aspectos da solução e apontar sugestões de melhoria. Esse momento foi importante para validar as decisões tomadas até então e identificar ajustes necessários a partir da experiência real dos futuros usuários. De maneira geral, o site foi muito bem recebido, tendo sido elogiado e parabenizado pelos participantes.
 
 <p align="center">
-  <img src="imagens/visita_hubis_2_1" width="45%" />
-  <img src="imagens/visita_hubis_2_2" width="45%" />
+  <img src="imagens/visita_hubis_2_1.jpeg" width="45%" />
+  <img src="imagens/visita_hubis_2_2.jpeg" width="45%" />
 </p>
 
 ### Levantamento de ajustes
