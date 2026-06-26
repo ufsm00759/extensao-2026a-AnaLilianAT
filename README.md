@@ -1,84 +1,115 @@
-# Práticas Extensionistas na Educação em Computação
+# Práticas Extensionistas na Educação em Computação - Relatório individual
 
-Este repositório tem como objetivo registrar as atividades desenvolvidas por mim na disciplina **Práticas Extensionistas na Educação em Computação**. Aqui serão descritas, de forma organizada, as ações realizadas ao longo do semestre, incluindo estudos, debates, visitas técnicas, identificação de demandas sociais e possíveis soluções computacionais voltadas à comunidade.
+### 1. Identificação
 
-A proposta da disciplina envolve aproximar a área da Computação das necessidades reais da sociedade, promovendo uma formação mais humana, crítica e comprometida com o desenvolvimento social. Nesse contexto, as atividades realizadas até o momento têm contribuído para a compreensão do papel da extensão universitária como ponte entre universidade e comunidade.
+**Nome:** Ana Lilian Alfonso Toledo
+
+**Projeto:** Desenvolvimento de um site para divulgação dos catálogos dos empreendimentos incubados pelo Hub Incubadora Social
+
+### 2. Introdução
+
+A disciplina de Práticas Extensionistas na Educação em Computação teve um impacto diferente para mim em comparação com outras disciplinas do curso. Em muitas disciplinas, mesmo quando temos atividades práticas, os problemas acabam ficando mais restritos ao ambiente acadêmico. Nesta disciplina, senti que o trabalho tinha outra dimensão, porque estávamos desenvolvendo algo que poderia ser usado por pessoas reais, em um contexto real e com uma necessidade concreta.
+
+Ao longo do semestre, trabalhamos no desenvolvimento de um site para o Hub Incubadora Social, com o objetivo de divulgar os produtos e serviços dos empreendimentos incubados. A ideia era criar uma vitrine digital que pudesse ajudar esses empreendedores a terem mais visibilidade e facilitar o acesso do público às informações sobre seus negócios.
+
+Antes dessa disciplina, eu ainda não tinha muita noção de como era participar de um projeto de software com impacto social direto. Já tinha feito trabalhos em grupo e projetos de programação, mas essa experiência foi diferente porque envolveu diálogo com pessoas de fora da Computação, levantamento de necessidades reais, adaptação constante da proposta e preocupação com o uso futuro da solução.
+
+Mais do que desenvolver um site, a disciplina me fez perceber que a Computação pode ter um papel importante fora da nossa rotina de aulas, provas e trabalhos. Ela pode ser uma forma de apoiar iniciativas sociais, aproximar a universidade da comunidade e contribuir, mesmo que aos poucos, para melhorar a realidade de outras pessoas.
+
+### 3. Atividades realizadas e minhas contribuições
+
+Durante o semestre, participei de diferentes etapas do projeto. Como a proposta deste relatório é ser mais reflexiva, apresento as atividades de forma resumida, destacando principalmente as minhas contribuições individuais:
+
+* Participei das discussões iniciais sobre a disciplina, a extensão universitária e os 5 Is da extensão.
+* Estive presente nas visitas ao Hub Incubadora Social, onde pudemos conhecer melhor o contexto do projeto e entender as demandas apresentadas.
+* Contribuí nas discussões sobre a proposta do site, os públicos-alvo e os requisitos iniciais do sistema.
+* Participei da construção e análise dos protótipos feitos no Figma, pensando principalmente na organização das telas, na usabilidade e na adequação ao público que iria utilizar o sistema.
+* Atuei mais diretamente na parte de front-end, criando novas funcionalidades, ajustando telas e contribuindo para melhorar o design e a experiência de uso.
+* Participei da implementação do sistema, ajudando a transformar o que estava no protótipo em uma versão funcional do site.
+* Fui uma das encarregadas de apresentar o projeto tanto para o pessoal do Hub quanto para os empreendedores incubados.
+* Participei dos momentos de validação com os usuários, observando dúvidas, sugestões e pontos que poderiam ser melhorados.
+* Contribuí na etapa de ajustes após os feedbacks recebidos, principalmente pensando em como melhorar a interface e tornar o sistema mais claro.
+
+Ao longo do projeto, foi interessante perceber como cada pessoa do grupo foi assumindo um papel próprio. No meu caso, acabei ficando mais envolvida com o front-end. Isso foi muito positivo, porque pude aprender mais sobre desenvolvimento de interface, organização visual e boas práticas de programação.
+
+### 4. Avaliação auto-reflexiva da experiência
+
+Uma das coisas que mais me marcou nesta disciplina foi perceber que um projeto como esse nunca está realmente “fechado”. Ao longo das reuniões, visitas e apresentações, sempre surgiam novos requisitos ou ajustes em requisitos antigos. Às vezes, a gente achava que já não tinha mais tanta coisa para modificar, mas depois de conversar com alguém ou testar alguma funcionalidade, aparecia mais um detalhe importante.
+
+Isso me fez entender melhor que desenvolver software para um contexto real é muito diferente de desenvolver apenas para cumprir uma atividade da disciplina. Quando existem usuários reais envolvidos, o projeto precisa se adaptar. Ele muda porque as necessidades ficam mais claras com o tempo, porque as pessoas dão feedbacks, porque algumas ideias que pareciam boas no início precisam ser ajustadas e porque o próprio grupo vai entendendo melhor o problema.
+
+Outro ponto muito importante foi o trabalho em grupo. Foi interessante ver como cada integrante contribuiu de uma forma diferente. Algumas pessoas ficaram mais ligadas ao back-end, outras aos testes, outras ao design e ao front-end. Essa divisão ajudou bastante, mas também mostrou que dividir tarefas não significa trabalhar separadamente. Pelo contrário, quanto mais o projeto crescia, mais necessário era conversar, combinar decisões e alinhar o que estava sendo feito.
+
+No meu caso, considero que aprendi bastante tecnicamente. Trabalhar no front-end me ajudou a melhorar minha forma de pensar a interface, a organização das informações e a experiência de quem vai usar o sistema. Também aprendi sobre a importância de pensar em um site que seja bonito, mas principalmente simples, claro e fácil de usar. Isso é ainda mais importante quando estamos desenvolvendo para pessoas que podem não ter tanta familiaridade com tecnologia.
+
+Mas acredito que o aprendizado mais importante foi além da parte técnica. A disciplina me fez sair um pouco da nossa “bolha” do CT e entrar em contato com pessoas de outras áreas e com outras realidades. Conversar com o pessoal do Hub, com os empreendedores e também com pessoas do Desenho Industrial mostrou que a Computação não deve ser pensada sozinha. Um sistema pode até funcionar tecnicamente, mas, para ele realmente ser útil, precisa fazer sentido para quem vai usar.
+
+Também foi uma experiência muito boa participar das apresentações para o Hub e para os empreendedores. Esses momentos exigiram uma preocupação diferente: não bastava explicar o sistema de forma técnica. Era preciso apresentar a proposta de um jeito claro, acessível e próximo das pessoas. Isso me fez perceber como a comunicação é uma parte muito importante do trabalho, especialmente em projetos extensionistas.
+
+Fiquei muito feliz em pensar que o que desenvolvemos na disciplina poderá ser usado pelos empreendedores incubados e servir de apoio para eles. Isso torna o trabalho mais significativo. Não foi apenas mais um projeto para entregar no final do semestre, mas algo que pode ter continuidade e impacto real na sociedade.
+
+### 5. Reflexão sobre os 5 Is da extensão
+
+Os 5 Is da extensão, apresentados no primeiro dia de aula, acompanharam todo o desenvolvimento do projeto. No começo, eles pareciam mais conceitos teóricos da disciplina, mas, com o passar do semestre, fui percebendo como eles apareciam na prática.
+
+#### Interação dialógica
+
+A interação dialógica esteve presente principalmente nos momentos de conversa com o Hub e com os empreendedores. O projeto não foi construído apenas a partir da nossa visão como estudantes de Computação. Pelo contrário, ele precisou ser pensado a partir da escuta das pessoas envolvidas.
+
+Esse diálogo foi importante porque nos ajudou a entender melhor o que realmente fazia sentido para o público do projeto. Algumas decisões de interface, organização ou funcionalidade só ficaram mais claras depois dessas conversas. Isso mostrou que ouvir o usuário não é uma etapa secundária, mas uma parte central do desenvolvimento.
+
+#### Impacto social
+
+O impacto social do projeto está relacionado à possibilidade de apoiar os empreendimentos incubados na divulgação de seus produtos e serviços. Muitos desses empreendedores precisam de mais visibilidade e nem sempre possuem acesso fácil a ferramentas digitais próprias. Nesse sentido, o site pode funcionar como uma vitrine coletiva, ajudando a aproximar os empreendedores de possíveis clientes.
+
+Para mim, esse foi um dos pontos mais importantes da disciplina. Saber que o sistema pode ser utilizado de verdade e que pode contribuir, mesmo que de forma simples, para fortalecer esses empreendimentos dá outro sentido ao trabalho realizado.
+
+#### Impacto na formação
+
+A disciplina teve um impacto grande na minha formação. Aprendi conteúdos técnicos, principalmente relacionados ao desenvolvimento front-end, mas também aprendi muito sobre colaboração, responsabilidade, comunicação e adaptação.
+
+Acredito que essa experiência contribuiu para minha formação como estudante e também como futura profissional. Ela mostrou que desenvolver tecnologia não é apenas escrever código. É também entender o contexto, conversar com as pessoas, perceber limitações, aceitar feedbacks e buscar soluções que sejam realmente úteis.
+
+#### Interdisciplinaridade
+
+A interdisciplinaridade, mesmo sendo o ponto mais fraco do nosso projeto na minha opinião, também esteve presente. As reuniões e trocas com o pessoal do Hub, com os empreendedores e com o Desenho Industrial mostraram que diferentes olhares ajudam a melhorar muito o projeto.
+
+A Computação foi essencial para construir o sistema, mas outras áreas ajudaram a pensar melhor a comunicação visual, a experiência do usuário e a forma como as informações deveriam ser apresentadas. Isso deixou claro que problemas reais dificilmente são resolvidos por uma única área do conhecimento.
+
+#### Indissociabilidade entre ensino, pesquisa e extensão
+
+A indissociabilidade entre ensino, pesquisa e extensão também apareceu durante o projeto. O ensino esteve presente no aprendizado de conceitos, ferramentas e práticas de desenvolvimento, incluindo o uso do Clarity, uma ferramenta que não conhecíamos e precisamos aprender para pensar no acompanhamento do site. A pesquisa apareceu tanto no início do semestre, quando estudamos outros projetos extensionistas, quanto na busca por soluções e tecnologias para implementar o sistema. Já a extensão esteve presente no contato com a comunidade e na construção de uma solução voltada para uma demanda real.
+
+Essa articulação tornou o aprendizado mais completo, pois aplicamos conhecimentos do curso em um projeto com propósito social.
+
+### 6. O que deu certo, o que poderia melhorar e o que eu faria diferente
+
+Considero que muitos aspectos deram certo ao longo do semestre. O grupo conseguiu transformar uma demanda inicial em um sistema funcional, dialogar com os usuários e ajustar o projeto a partir dos feedbacks recebidos. Também acredito que a divisão de tarefas funcionou bem, porque cada pessoa pôde contribuir mais diretamente em uma parte do desenvolvimento.
+
+Outro ponto positivo foi a abertura do grupo para melhorar o sistema. As visitas e validações mostraram que sempre havia algo que poderia ser ajustado, e isso foi tratado como parte natural do processo. Essa disposição para ouvir e modificar o projeto foi essencial.
+
+Ao mesmo tempo, também percebo algumas lacunas. Do ponto de vista do projeto, acho que poderíamos ter tido mais momentos de teste com os usuários. Cada vez que alguém de fora do grupo usava o sistema, surgiam observações importantes. Além disso, considero que poderiam ter ocorrido mais encontros com os empreendedores para ensinar o uso do site, já que eles são os principais usuários e serão fundamentais para que a plataforma seja realmente utilizada. Por isso, mais rodadas de validação e orientação poderiam ter ajudado a identificar problemas antes e a deixar o site mais adequado ao público.
+
+Da minha parte, considero que um ponto que posso melhorar é a comunicação. Tenho uma personalidade mais introspectiva e, em alguns momentos, acho que poderia ter participado mais ativamente das discussões ou compartilhado minhas dúvidas e ideias com mais frequência. Mesmo assim, essa disciplina me ajudou a perceber a importância dessa habilidade. A comunicação é essencial não só para projetos extensionistas, mas também para o trabalho em equipe, para a vida acadêmica e para a atuação profissional.
+
+### 7. Considerações finais
+
+Participar da disciplina de Práticas Extensionistas na Educação em Computação foi uma experiência muito significativa para mim. Ela se diferenciou das demais disciplinas porque nos colocou em contato com uma demanda real, com pessoas reais e com a possibilidade de gerar um impacto concreto fora da universidade.
+
+Ao longo do semestre, aprendi que desenvolver software não é apenas implementar funcionalidades. É também escutar, adaptar, dialogar, testar, errar, corrigir e melhorar. A experiência com o Hub Incubadora Social mostrou que a Computação pode ser uma ferramenta importante de apoio à inclusão, à divulgação de iniciativas sociais e ao fortalecimento de pequenos empreendimentos.
+
+Também considero que sair da nossa rotina dentro do Centro de Tecnologia foi muito importante. Esse contato com outros contextos me ajudou a crescer como pessoa e como futura profissional. Acredito que experiências como essa são essenciais para a formação dos alunos, porque mostram que o conhecimento produzido na universidade pode e deve dialogar com a sociedade.
+
+Por fim, só tenho a agradecer à professora pela orientação durante todo o semestre, sempre nos ajudando, incentivando e nos impulsionando a melhorar um pouco mais. Também agradeço aos meus colegas pela parceria e pelo trabalho em equipe. Acredito que todos contribuíram bastante e que conseguimos construir um projeto muito importante.
+
+Obrigada a todos :)
 
 ---
 
-## Atividades desenvolvidas
-
-## 1ª semana
-
-### Introdução à disciplina e apresentação
-Na primeira semana foi realizada a apresentação da disciplina, de sua proposta pedagógica e de seus objetivos. Nesse momento, foi possível compreender que a disciplina está voltada à articulação entre universidade e sociedade, buscando desenvolver ações extensionistas que utilizem conhecimentos da Computação para atender demandas sociais concretas.
-
-Além da apresentação geral da disciplina, também foram introduzidos os conceitos dos **5 Is** que orientam os projetos de extensão e ajudam a compreender os principais critérios que caracterizam uma ação extensionista de qualidade:
-
-- **Interação dialógica**: refere-se à construção de uma relação de troca entre universidade e comunidade, baseada na escuta, no diálogo e na valorização mútua de saberes.
-- **Impacto social**: diz respeito à capacidade das ações extensionistas de gerar contribuições concretas e relevantes para a sociedade.
-- **Impacto na formação**: relaciona-se à importância da extensão na formação acadêmica e cidadã dos estudantes, ampliando sua visão crítica e seu compromisso social.
-- **Interdisciplinaridade**: destaca a integração entre diferentes áreas do conhecimento para compreender melhor os problemas e construir soluções mais completas.
-- **Indissociabilidade entre ensino, pesquisa e extensão**: reforça que a extensão universitária não deve estar separada das demais dimensões da universidade, mas articulada ao ensino e à pesquisa.
-
-Essa introdução foi importante para estabelecer as bases conceituais da disciplina e para compreender que a extensão universitária vai além da aplicação de conhecimentos técnicos, envolvendo também escuta ativa, responsabilidade social e formação integral.
+## Momentos para recordar
 
 ![Desenhos de cada um](imagens/desenhos.jpg)
-
-### Pesquisa para debate em aula: Projeto **Flores para Todos (PhenoGlad)**
-Como atividade inicial, foi realizada uma pesquisa sobre o projeto **Flores para Todos (PhenoGlad)** para subsidiar um debate em aula.
-
-O projeto tem como objetivo levar conhecimentos sobre **floricultura** para escolas e comunidades do interior, promovendo a aprendizagem sobre o cultivo de flores e incentivando essa prática como uma possível fonte de geração de renda para famílias. A iniciativa possui relevância social por articular educação, produção local e desenvolvimento comunitário, oferecendo novas possibilidades econômicas para públicos que muitas vezes possuem acesso limitado a oportunidades de capacitação e inovação.
-
-Além do aspecto produtivo, o projeto também apresenta caráter educativo, uma vez que aproxima estudantes e comunidades de conhecimentos práticos e científicos relacionados ao plantio, manejo e cuidado com flores. Dessa forma, o **Flores para Todos** contribui tanto para a formação quanto para o fortalecimento da autonomia das comunidades envolvidas.
-
-A pesquisa e o debate em aula permitiram refletir sobre como projetos extensionistas podem impactar positivamente a realidade local, especialmente quando valorizam saberes regionais e estimulam alternativas sustentáveis de trabalho e renda.
-
----
-
-## 2ª semana
-
-### Apresentação do GitHub da turma e orientações de registro
-Na segunda semana, foi apresentado o **GitHub da turma**, bem como as orientações para o preenchimento dos relatórios nas pastas individuais. Essa atividade teve como finalidade organizar o registro das ações desenvolvidas na disciplina, além de incentivar o uso de ferramentas tecnológicas para documentação e acompanhamento das atividades extensionistas.
-
-O uso do GitHub também contribui para o desenvolvimento de competências importantes na área da Computação, como organização de projetos, escrita técnica, versionamento e registro sistemático de atividades.
-
-### Visita ao **Hub Incubadora Social**
-
 ![Hub Incubadora Social](imagens/hubis.JPG)
-
-Também foi realizada uma visita ao **Hub Incubadora Social**, com o objetivo de conhecer o programa, entender sua proposta de atuação e identificar necessidades que possam ser atendidas por meio de soluções na área da Computação.
-
-O programa tem como principal objetivo apoiar **pequenos negócios e empreendimentos com caráter social**, auxiliando no seu desenvolvimento e fortalecimento no mercado. Em muitos casos, os empreendimentos incubados são formados por pessoas em situação de vulnerabilidade socioeconômica, com **baixa renda** e **acesso limitado a tecnologias digitais**, o que pode dificultar sua divulgação, crescimento e competitividade.
-
-A visita permitiu perceber que a incubadora exerce um papel importante no apoio a esses grupos, promovendo inclusão produtiva, autonomia e valorização do trabalho local. Além disso, foi possível identificar uma demanda concreta que pode ser trabalhada pela turma: a criação de um **site para divulgação de catálogos dos produtos ofertados pelos empreendimentos incubados**.
-
-Essa possível solução computacional pode contribuir para ampliar a visibilidade dos produtos, facilitar o acesso de clientes às informações e fortalecer a presença digital dos empreendimentos. Dessa forma, a atividade evidenciou como a Computação pode ser aplicada de maneira prática e socialmente relevante, colaborando com iniciativas de impacto comunitário.
-
----
-
-## 3ª semana
-
-### Discussão da Proposta e Definição dos Requisitos do Projeto
-
-Na terceira semana da disciplina, foi realizada inicialmente uma discussão sobre a visita à incubadora social e sobre as principais impressões a respeito do projeto que nos foi apresentado. Nesse momento, foram analisadas a viabilidade e a relevância da proposta de implementação recebida pelo grupo, que consiste na criação de um site para a divulgação dos catálogos das empresas incubadas.
-
-Ao longo da discussão, também foram definidos os principais públicos-alvo do sistema: os trabalhadores da incubadora social, que ficarão responsáveis pela administração do site; os empreendedores incubados, que terão seus empreendimentos divulgados na plataforma; e os usuários interessados, que acessarão o site para visualizar os catálogos e conhecer os produtos e serviços oferecidos.
-
-Outro ponto importante levantado foi a **necessidade de que o sistema seja simples, intuitivo e de fácil utilização**. Esse aspecto foi considerado essencial para atender adequadamente aos empreendedores incubados, tendo em vista que muitos deles não possuem conhecimento tecnológico aprofundado. Assim, desde o início do planejamento, buscou-se considerar a acessibilidade e a usabilidade como características centrais da proposta.
-
-Em um segundo momento, foram discutidos conjuntamente diversos requisitos do sistema, com o objetivo de alinhar o desenvolvimento do projeto às demandas identificadas anteriormente. Além disso, foram definidas algumas tarefas iniciais para dar início à construção da solução, entre elas a elaboração de um protótipo no Figma, para apresentar a estruturação do site, e a coleta de informações sobre os empreendimentos incubados, com a finalidade de formar uma base de dados inicial para ser incorporada ao sistema.
-
----
-
-## 4ª semana
-
-### Desenvolvimento, avaliação e integração dos protótipos no Figma
-
-Na quarta semana, foram entregues os protótipos do projeto desenvolvidos no Figma, sendo apresentadas duas propostas distintas de interface. A partir disso, foi realizada uma análise comparativa entre os dois protótipos, considerando os requisitos levantados nas etapas anteriores e as necessidades identificadas junto ao contexto do projeto.
-
-Durante a discussão, foram observados os pontos positivos e negativos de cada proposta, tanto em relação à organização das informações quanto à usabilidade e à adequação ao público-alvo. Com base nessa avaliação, decidiu-se realizar um *merge* entre os protótipos, reunindo em uma única versão as características mais adequadas e vantajosas de cada um. Esse processo contribuiu para o refinamento da solução proposta, tornando o modelo mais alinhado aos objetivos do sistema.
-
 <p align="center">
   <img src="imagens/figma1.png" width="45%" />
   <img src="imagens/figma2.png" width="45%" />
@@ -87,51 +118,11 @@ Durante a discussão, foram observados os pontos positivos e negativos de cada p
   <img src="imagens/figma3.png" width="45%" />
   <img src="imagens/figma4.png" width="45%" />
 </p>
-
----
-
-## 5ª semana
-
-### Apresentação do protótipo no Hub Incubadora Social e validação da proposta
-
-Na quinta semana, foi realizada uma visita ao Hub Incubadora Social com o objetivo de apresentar o modelo do projeto elaborado no Figma. Essa atividade teve como finalidade obter feedback dos trabalhadores envolvidos, verificar se o protótipo estava de acordo com a proposta esperada e esclarecer dúvidas relacionadas ao funcionamento e à estrutura do sistema.
-
-De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram satisfação com a proposta apresentada. Foram levantadas apenas pequenas sugestões de ajuste, voltadas principalmente ao aprimoramento de alguns detalhes do modelo. A visita foi importante para validar o encaminhamento do projeto e confirmar que a solução desenvolvida estava coerente com as expectativas dos interessados.
-
 <p align="center">
   <img src="imagens/apresentacao_Hub1.jpeg" width="45%" />
   <img src="imagens/apresentacao_Hub2.jpeg" width="45%" />
 </p>
-
-## 6ª a 8ª semanas
-
-### Implementação do projeto
-
-Da sexta à oitava semana, foi iniciada a etapa de implementação do projeto. Nesse período, o trabalho deixou de se concentrar apenas na modelagem realizada no Figma e passou a se materializar como um produto funcional, com interações e funcionalidades definidas de forma mais concreta.
-
-Para melhor organização das atividades, a equipe foi dividida em grupos responsáveis pelas frentes de **front-end**, **back-end** e **testes**. Essa divisão permitiu que o desenvolvimento ocorresse de maneira mais estruturada, favorecendo o andamento simultâneo de diferentes partes do sistema. Ao longo dessas semanas, o projeto evoluiu significativamente, passando de um protótipo conceitual para uma solução real em desenvolvimento, com foco na implementação prática das funcionalidades planejadas.
-
-## 9ª semana
-
-### Apresentação da implementação e validação com usuários
-
-Na nona semana, foi realizada uma nova visita ao Hub Incubadora Social com o objetivo de apresentar o que já havia sido implementado no projeto. Nessa apresentação, estiveram presentes tanto trabalhadores do Hub quanto algumas empreendedoras incubadas, público diretamente relacionado ao uso da plataforma.
-
-Além da demonstração das funcionalidades desenvolvidas, houve também uma sessão de testes com os próprios usuários do sistema. As empreendedoras e as trabalhadoras do Hub puderam interagir com o site, avaliar aspectos da solução e apontar sugestões de melhoria. Esse momento foi importante para validar as decisões tomadas até então e identificar ajustes necessários a partir da experiência real dos futuros usuários. De maneira geral, o site foi muito bem recebido, tendo sido elogiado e parabenizado pelos participantes.
-
 <p align="center">
   <img src="imagens/visita_hubis_2_1.jpeg" width="45%" />
   <img src="imagens/visita_hubis_2_2.jpeg" width="45%" />
 </p>
-
-### Levantamento de ajustes
-
-Na segunda parte da semana, a equipe se reuniu para revisar e discutir os pontos que precisavam ser ajustados com base no feedback recebido durante a visita. A partir dessa análise, foram criadas *issues* para organizar as demandas identificadas e orientar as próximas etapas do desenvolvimento.
-
-## 10ª a 11ª semanas
-
-### Correção de issues e definição de aspectos de implantação e monitoramento
-
-Durante a décima e a décima primeira semanas, o foco da equipe esteve voltado para a resolução das *issues* levantadas anteriormente. Assim, foram realizados os ajustes necessários no sistema, buscando atender às observações feitas pelos usuários e aprimorar a qualidade da solução desenvolvida.
-
-Além disso, nessas semanas também foram discutidos aspectos relacionados à implantação e ao uso futuro da plataforma. Entre os pontos tratados, destacam-se a definição de questões de domínio, o uso do Microsoft Clarity para extração e análise de métricas de navegação e a criação de dois ambientes distintos para o sistema: um ambiente destinado à vitrine real, com atualização por meio de *pull* manual, e outro voltado para testes, com *pull* automático. Essas definições foram importantes para estruturar melhor o processo de disponibilização, acompanhamento e manutenção do projeto.
